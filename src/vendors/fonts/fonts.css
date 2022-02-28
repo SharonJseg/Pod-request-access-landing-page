@@ -6,3 +6,12 @@
   src: url('Chivo-Light.woff') format('woff'),
     url('Chivo-Light.woff2') format('woff2');
 }
+
+@font-face {
+  font-family: 'Chivo';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('Chivo-Bold.woff') format('woff'),
+    url('Chivo-Bold.woff2') format('woff2');
+}
