@@ -6,7 +6,6 @@
 
 .page {
   margin-left: 165px;
-  /* position: relative; */
 }
 
 .main__image {
@@ -14,11 +13,24 @@
   background-repeat: no-repeat;
   position: absolute;
   top: 28px;
-  right: -100px;
+  right: -78px;
   height: 640px;
   width: 962px;
   z-index: -1;
   mix-blend-mode: screen;
+}
+
+.main__image::before {
+  content: '';
+  /* background-color: var(--clr-cyan); */
+  background-color: #54e6af;
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  opacity: 0.25;
+  mix-blend-mode: overlay;
 }
 
 .dots {

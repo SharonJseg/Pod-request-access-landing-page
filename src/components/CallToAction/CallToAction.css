@@ -61,15 +61,18 @@
   .hero__title {
     font-size: 1.625rem;
     margin-bottom: 31px;
+    order: 1;
   }
 
   .hero__text {
     font-size: 0.9375rem;
     line-height: 1.66;
     margin-bottom: 0;
+    order: 2;
   }
 
   .hero__footer {
+    order: 3;
     align-items: center;
     justify-content: space-between;
     margin-top: 36px;
