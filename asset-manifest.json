@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/pod-request-access-landing-page/static/css/main.450adc84.css",
+    "main.js": "/pod-request-access-landing-page/static/js/main.a1bcdb26.js",
+    "static/js/787.3ce399a3.chunk.js": "/pod-request-access-landing-page/static/js/787.3ce399a3.chunk.js",
+    "static/media/image-host.jpg": "/pod-request-access-landing-page/static/media/image-host.2b35f9074eb5679b627c.jpg",
+    "static/media/Chivo-Light.woff": "/pod-request-access-landing-page/static/media/Chivo-Light.4e34685e1320a5ab9aa0.woff",
+    "static/media/Chivo-Bold.woff": "/pod-request-access-landing-page/static/media/Chivo-Bold.c2963baebcab27076782.woff",
+    "static/media/Chivo-Light.woff2": "/pod-request-access-landing-page/static/media/Chivo-Light.e6effdcbb502560df3de.woff2",
+    "static/media/Chivo-Bold.woff2": "/pod-request-access-landing-page/static/media/Chivo-Bold.6fea82e39824f6109ea8.woff2",
+    "static/media/google-podcasts.svg": "/pod-request-access-landing-page/static/media/google-podcasts.e91a57f8f2ae7555677a.svg",
+    "static/media/apple-podcast.svg": "/pod-request-access-landing-page/static/media/apple-podcast.d1854182034693ff7c69.svg",
+    "static/media/pocket-casts.svg": "/pod-request-access-landing-page/static/media/pocket-casts.8beb87ad75e676103606.svg",
+    "static/media/spotify.svg": "/pod-request-access-landing-page/static/media/spotify.6f8222bb8bd93ed2a74b.svg",
+    "static/media/logo.svg": "/pod-request-access-landing-page/static/media/logo.f47677a643c79f406a3c9655e21c58b6.svg",
+    "static/media/bg-pattern-dots.svg": "/pod-request-access-landing-page/static/media/bg-pattern-dots.a2597e7c189c706f735b91fcfeacc326.svg",
+    "index.html": "/pod-request-access-landing-page/index.html",
+    "main.450adc84.css.map": "/pod-request-access-landing-page/static/css/main.450adc84.css.map",
+    "main.a1bcdb26.js.map": "/pod-request-access-landing-page/static/js/main.a1bcdb26.js.map",
+    "787.3ce399a3.chunk.js.map": "/pod-request-access-landing-page/static/js/787.3ce399a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.450adc84.css",
+    "static/js/main.a1bcdb26.js"
+  ]
+}
