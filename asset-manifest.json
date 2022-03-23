@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/pod-request-access-landing-page/static/css/main.092c5eea.css",
-    "main.js": "/pod-request-access-landing-page/static/js/main.a1bcdb26.js",
+    "main.css": "/pod-request-access-landing-page/static/css/main.7b96b3af.css",
+    "main.js": "/pod-request-access-landing-page/static/js/main.767199ca.js",
     "static/js/787.3ce399a3.chunk.js": "/pod-request-access-landing-page/static/js/787.3ce399a3.chunk.js",
     "static/media/image-host.jpg": "/pod-request-access-landing-page/static/media/image-host.2b35f9074eb5679b627c.jpg",
+    "static/media/image-host2.jpg": "/pod-request-access-landing-page/static/media/image-host2.1be1435679e9d16319ad.jpg",
     "static/media/Chivo-Light.woff": "/pod-request-access-landing-page/static/media/Chivo-Light.4e34685e1320a5ab9aa0.woff",
     "static/media/Chivo-Bold.woff": "/pod-request-access-landing-page/static/media/Chivo-Bold.c2963baebcab27076782.woff",
     "static/media/Chivo-Light.woff2": "/pod-request-access-landing-page/static/media/Chivo-Light.e6effdcbb502560df3de.woff2",
@@ -15,12 +16,12 @@
     "static/media/logo.svg": "/pod-request-access-landing-page/static/media/logo.f47677a643c79f406a3c9655e21c58b6.svg",
     "static/media/bg-pattern-dots.svg": "/pod-request-access-landing-page/static/media/bg-pattern-dots.a2597e7c189c706f735b91fcfeacc326.svg",
     "index.html": "/pod-request-access-landing-page/index.html",
-    "main.092c5eea.css.map": "/pod-request-access-landing-page/static/css/main.092c5eea.css.map",
-    "main.a1bcdb26.js.map": "/pod-request-access-landing-page/static/js/main.a1bcdb26.js.map",
+    "main.7b96b3af.css.map": "/pod-request-access-landing-page/static/css/main.7b96b3af.css.map",
+    "main.767199ca.js.map": "/pod-request-access-landing-page/static/js/main.767199ca.js.map",
     "787.3ce399a3.chunk.js.map": "/pod-request-access-landing-page/static/js/787.3ce399a3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.092c5eea.css",
-    "static/js/main.a1bcdb26.js"
+    "static/css/main.7b96b3af.css",
+    "static/js/main.767199ca.js"
   ]
 }
