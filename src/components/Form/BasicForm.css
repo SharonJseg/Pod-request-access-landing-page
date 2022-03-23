@@ -22,6 +22,7 @@
 }
 
 .form__button {
+  outline: none;
   cursor: pointer;
   height: 46px;
   background-color: var(--clr-cyan);

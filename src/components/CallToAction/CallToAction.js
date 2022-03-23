@@ -1,4 +1,4 @@
-import Form from '../Form/Form';
+import BasicForm from '../Form/BasicForm';
 import './CallToAction.css';
 
 const podcasts = [
@@ -33,7 +33,7 @@ const CallToAction = () => {
           your podcast to Spotify, Apple Podcasts, Google Podcasts, Pocket Casts
           and more!
         </p>
-        <Form />
+        <BasicForm />
         <ul className='hero__footer'>
           {podcasts.map((podcasts, index) => (
             <li key={index}>

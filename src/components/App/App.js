@@ -1,5 +1,6 @@
 import './App.css';
 import dots from '../../images/desktop/bg-pattern-dots.svg';
+import mainImage from '../../images/desktop/image-host.jpg';
 
 import Header from '../Header/Header';
 import CallToAction from '../CallToAction/CallToAction';
@@ -10,11 +11,10 @@ function App() {
       <div className='page'>
         <Header />
         <CallToAction />
+
+        <img src={mainImage} alt='radio host' className='main__image' />
+        <img src={dots} alt='dots' className='dots' />
       </div>
-      <div className='main__image'></div>
-      <picture className='dots'>
-        <img src={dots} alt='dots' />
-      </picture>
     </div>
   );
 }
