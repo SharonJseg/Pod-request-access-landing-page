@@ -10,7 +10,7 @@
 
 .main__image {
   position: absolute;
-  top: 28px;
+  top: 25px;
   right: 0;
   object-fit: cover;
   z-index: -1;
@@ -23,6 +23,17 @@
   right: 0;
   bottom: -52px;
   z-index: 1;
+}
+
+@media screen and (max-width: 1024px) {
+  .main__image {
+    top: -105px;
+    right: -250px;
+  }
+
+  .dots {
+    bottom: -115px;
+  }
 }
 
 @media screen and (max-width: 768px) {
